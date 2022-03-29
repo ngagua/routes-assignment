@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "username": "Rembo",
+    "firstName": "Sylvester",
+    "lastName": "Stallone",
+    "aboutMe": "actor"
+  },
+
+  {
+    "id": 2,
+    "username": "Terminator",
+    "firstName": "Arnold",
+    "lastName": "schwarzenegger",
+    "aboutMe": "bodybuilder"
+  },
+  {
+    "id": 3,
+    "username": "Spiderman",
+    "firstName": "Thomas",
+    "lastName": "Holland",
+    "aboutMe": "actor"
+  },
+  {
+    "id": 4,
+    "username": "Joker",
+    "firstName": "Joaquin",
+    "lastName": "Phoenix",
+    "aboutMe": "actor"
+  },
+  {
+    "id": 5,
+    "username": "Ironman",
+    "firstName": "Robert",
+    "lastName": "Downey Jr",
+    "aboutMe": "actor"
+  }
+]

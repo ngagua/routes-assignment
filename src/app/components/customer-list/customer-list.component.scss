@@ -1,0 +1,14 @@
+.container {
+  width: 250px;
+  border: 1px solid blue;
+  a {
+    cursor: pointer;
+  }
+
+  li {
+    list-style: none;
+  }
+  ul {
+    padding-left: 10px;
+  }
+}

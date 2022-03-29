@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "username": "Rembo"
+  },
+
+  {
+    "id": 2,
+    "username": "Terminator",
+
+    "lastName": "schwarzenegger"
+  },
+  {
+    "id": 3,
+    "username": "Spiderman"
+  },
+  {
+    "id": 4,
+    "username": "Joker"
+  },
+  {
+    "id": 5,
+    "username": "Ironman"
+  }
+]

@@ -1,0 +1,9 @@
+<section *ngFor="let customer of customerList" class="container">
+  <ul>
+    <li>
+      <a (click)="goToDetails(customer)"
+        >{{ customer.id }}: Username: {{ customer.username }}</a
+      >
+    </li>
+  </ul>
+</section>
